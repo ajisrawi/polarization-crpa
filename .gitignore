@@ -1,0 +1,28 @@
+# local tool installs (reinstall: see hardware/em/README section in README.md)
+tools/openEMS/
+tools/openEMS_download/
+tools/emvenv/
+tools/em_runs/
+
+# Python / logs / scratch
+__pycache__/
+*.pyc
+*.log
+hardware/em/results/array/elem*.npz.tmp
+
+# KiCad backups and local state
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.lck
+
+# Blender scene files (embed absolute local paths; the .glb exports are committed)
+*.blend
+*.blend1
+
+# drafts not meant for the repo
+LINKEDIN_POST.md
+
+# third-party review notes (contain local paths; not part of the design)
+hardware/antenna/render3d/review/

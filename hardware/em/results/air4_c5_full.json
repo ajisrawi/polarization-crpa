@@ -1,0 +1,115 @@
+{
+  "tag": "air4_c5_full",
+  "params": {
+    "design": "air4",
+    "ground": 124.0,
+    "posts": 58.0,
+    "post_h": 8.762,
+    "plate": 240.0,
+    "h1": 12.0,
+    "h2": 6.0,
+    "t_fr4": 0.8,
+    "er_fr4": 4.3,
+    "tan_fr4": 0.02,
+    "L_A": 102.0,
+    "L_C": 72.0,
+    "carrier": 124.0,
+    "probe_off": 28.0,
+    "probe_r": 0.65,
+    "disk_d": 7.8,
+    "hole_d": 4.0,
+    "probe_off_hi": 5.0,
+    "excite": 2,
+    "series_c_hi_pF": 0.45,
+    "_min_cell_mm": {
+      "x": 0.224,
+      "y": 0.224,
+      "z": 0.5
+    }
+  },
+  "cells_M": 0.3,
+  "bands": {
+    "L5/E5a/B2a": {
+      "worst_RL_hybrid_dB": 21.3,
+      "worst_S11_probe_dB": -11.0
+    },
+    "E5b/B2b/G3": {
+      "worst_RL_hybrid_dB": 17.3,
+      "worst_S11_probe_dB": -18.7
+    },
+    "L2": {
+      "worst_RL_hybrid_dB": 15.2,
+      "worst_S11_probe_dB": -18.5
+    },
+    "G2": {
+      "worst_RL_hybrid_dB": 14.0,
+      "worst_S11_probe_dB": -14.4
+    },
+    "E6/B3": {
+      "worst_RL_hybrid_dB": 11.8,
+      "worst_S11_probe_dB": -7.7
+    },
+    "B1I": {
+      "worst_RL_hybrid_dB": 4.7,
+      "worst_S11_probe_dB": -4.4
+    },
+    "L1/E1/B1C": {
+      "worst_RL_hybrid_dB": 4.8,
+      "worst_S11_probe_dB": -4.4
+    },
+    "G1": {
+      "worst_RL_hybrid_dB": 5.7,
+      "worst_S11_probe_dB": -4.6
+    }
+  },
+  "far_field": {
+    "1176.45": {
+      "RHCP_gain_zenith_dBic": 5.84,
+      "AR_zenith_dB": 1.7,
+      "RHCP_gain_el10_dBic_mean": -9.23,
+      "LHCP_gain_zenith_dBic": -14.39
+    },
+    "1207.14": {
+      "RHCP_gain_zenith_dBic": 5.87,
+      "AR_zenith_dB": 2.21,
+      "RHCP_gain_el10_dBic_mean": -9.98,
+      "LHCP_gain_zenith_dBic": -12.08
+    },
+    "1227.60": {
+      "RHCP_gain_zenith_dBic": 5.69,
+      "AR_zenith_dB": 2.57,
+      "RHCP_gain_el10_dBic_mean": -10.57,
+      "LHCP_gain_zenith_dBic": -10.96
+    },
+    "1246.00": {
+      "RHCP_gain_zenith_dBic": 5.45,
+      "AR_zenith_dB": 2.83,
+      "RHCP_gain_el10_dBic_mean": -11.44,
+      "LHCP_gain_zenith_dBic": -10.38
+    },
+    "1278.75": {
+      "RHCP_gain_zenith_dBic": 4.91,
+      "AR_zenith_dB": 3.19,
+      "RHCP_gain_el10_dBic_mean": -13.08,
+      "LHCP_gain_zenith_dBic": -9.91
+    },
+    "1561.10": {
+      "RHCP_gain_zenith_dBic": -6.62,
+      "AR_zenith_dB": 20.67,
+      "RHCP_gain_el10_dBic_mean": -9.51,
+      "LHCP_gain_zenith_dBic": -5.01
+    },
+    "1575.42": {
+      "RHCP_gain_zenith_dBic": -4.38,
+      "AR_zenith_dB": 22.12,
+      "RHCP_gain_el10_dBic_mean": -9.71,
+      "LHCP_gain_zenith_dBic": -3.02
+    },
+    "1602.00": {
+      "RHCP_gain_zenith_dBic": -1.82,
+      "AR_zenith_dB": 25.45,
+      "RHCP_gain_el10_dBic_mean": -10.94,
+      "LHCP_gain_zenith_dBic": -0.89
+    }
+  }
+}

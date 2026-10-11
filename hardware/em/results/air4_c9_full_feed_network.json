@@ -1,0 +1,108 @@
+{
+  "element": "air4_c9_full",
+  "lpf_cutoff_MHz": 1320,
+  "hpf_cutoff_MHz": 1530,
+  "lpf_parts": {
+    "L1_nH": 6.800000000000001,
+    "C2_pF": 3.3,
+    "L3_nH": 12.000000000000002,
+    "C4_pF": 3.3,
+    "L5_nH": 6.800000000000001
+  },
+  "hpf_parts": {
+    "C1_pF": 1.8,
+    "L2_nH": 3.9000000000000004,
+    "C3_pF": 1.1,
+    "L4_nH": 3.9000000000000004,
+    "C5_pF": 1.8
+  },
+  "bands_standard_values": {
+    "L5/E5a/B2a": {
+      "RL_at_SMA_dB": 5.9,
+      "into_antenna_dB": -2.73,
+      "into_wrong_branch_dB": -12.5
+    },
+    "E5b/B2b/G3": {
+      "RL_at_SMA_dB": 5.1,
+      "into_antenna_dB": -3.51,
+      "into_wrong_branch_dB": -10.7
+    },
+    "L2": {
+      "RL_at_SMA_dB": 4.7,
+      "into_antenna_dB": -4.15,
+      "into_wrong_branch_dB": -9.5
+    },
+    "G2": {
+      "RL_at_SMA_dB": 4.5,
+      "into_antenna_dB": -4.72,
+      "into_wrong_branch_dB": -8.6
+    },
+    "E6/B3": {
+      "RL_at_SMA_dB": 4.3,
+      "into_antenna_dB": -7.75,
+      "into_wrong_branch_dB": -5.7
+    },
+    "B1I": {
+      "RL_at_SMA_dB": 3.6,
+      "into_antenna_dB": -6.75,
+      "into_wrong_branch_dB": -7.7
+    },
+    "L1/E1/B1C": {
+      "RL_at_SMA_dB": 3.6,
+      "into_antenna_dB": -6.55,
+      "into_wrong_branch_dB": -7.9
+    },
+    "G1": {
+      "RL_at_SMA_dB": 3.9,
+      "into_antenna_dB": -5.44,
+      "into_wrong_branch_dB": -9.0
+    }
+  },
+  "bands_exact_values": {
+    "L5/E5a/B2a": {
+      "RL_at_SMA_dB": 6.5,
+      "into_antenna_dB": -2.32,
+      "into_wrong_branch_dB": -14.1
+    },
+    "E5b/B2b/G3": {
+      "RL_at_SMA_dB": 5.7,
+      "into_antenna_dB": -2.9,
+      "into_wrong_branch_dB": -12.4
+    },
+    "L2": {
+      "RL_at_SMA_dB": 5.3,
+      "into_antenna_dB": -3.36,
+      "into_wrong_branch_dB": -11.2
+    },
+    "G2": {
+      "RL_at_SMA_dB": 5.0,
+      "into_antenna_dB": -3.77,
+      "into_wrong_branch_dB": -10.2
+    },
+    "E6/B3": {
+      "RL_at_SMA_dB": 4.1,
+      "into_antenna_dB": -6.64,
+      "into_wrong_branch_dB": -7.0
+    },
+    "B1I": {
+      "RL_at_SMA_dB": 3.5,
+      "into_antenna_dB": -6.32,
+      "into_wrong_branch_dB": -8.4
+    },
+    "L1/E1/B1C": {
+      "RL_at_SMA_dB": 3.5,
+      "into_antenna_dB": -6.15,
+      "into_wrong_branch_dB": -8.6
+    },
+    "G1": {
+      "RL_at_SMA_dB": 3.8,
+      "into_antenna_dB": -5.2,
+      "into_wrong_branch_dB": -9.7
+    }
+  },
+  "cross_band_leak_dB": {
+    "lower-band power into upper probes": -15.4,
+    "upper-band power into lower probes": -15.4
+  },
+  "assumptions": "ideal 90deg hybrids; 0402 L Q=40, C Q=200; EM element incl. 1.5 pF series caps"
+}

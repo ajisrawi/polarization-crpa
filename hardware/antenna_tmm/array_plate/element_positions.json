@@ -1,0 +1,104 @@
+[
+  {
+    "kind": "R",
+    "x": -100.0,
+    "y": -100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP) + slab_A1_circ"
+  },
+  {
+    "kind": "H",
+    "x": 0.0,
+    "y": -100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 0.0,
+    "board": "feed_linear_000 + slab_A1_lin000"
+  },
+  {
+    "kind": "V",
+    "x": 100.0,
+    "y": -100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "V",
+    "x": -100.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "R",
+    "x": 0.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP) + slab_A1_circ"
+  },
+  {
+    "kind": "H",
+    "x": 100.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 60.0,
+    "board": "feed_linear_060 + slab_A1_lin060"
+  },
+  {
+    "kind": "H",
+    "x": -100.0,
+    "y": 100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 120.0,
+    "board": "feed_linear_120 + slab_A1_lin120"
+  },
+  {
+    "kind": "V",
+    "x": 0.0,
+    "y": 100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "R",
+    "x": 100.0,
+    "y": 100.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP) + slab_A1_circ"
+  },
+  {
+    "kind": "L_tilted",
+    "x": -100.0,
+    "y": -187.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP per spec; RHCP recommended) + slab_A1_circ"
+  },
+  {
+    "kind": "L_tilted",
+    "x": 0.0,
+    "y": -187.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP per spec; RHCP recommended) + slab_A1_circ"
+  },
+  {
+    "kind": "L_tilted",
+    "x": 100.0,
+    "y": -187.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP per spec; RHCP recommended) + slab_A1_circ"
+  }
+]

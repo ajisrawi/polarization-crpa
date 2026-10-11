@@ -1,0 +1,65 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"H1","M3 brass standoff","",-144.000000,144.000000,0.000000,top
+"H2","M3 brass standoff","",-144.000000,100.000000,0.000000,top
+"H3","M3 brass standoff","",-144.000000,56.000000,0.000000,top
+"H4","M3 brass standoff","",-100.000000,144.000000,0.000000,top
+"H5","M3 brass standoff","",-100.000000,56.000000,0.000000,top
+"H6","M3 brass standoff","",-56.000000,144.000000,0.000000,top
+"H7","M3 brass standoff","",-56.000000,100.000000,0.000000,top
+"H8","M3 brass standoff","",-56.000000,56.000000,0.000000,top
+"H9","SMA cable plug pass-through","",-136.000000,64.000000,0.000000,top
+"H10","M3 brass standoff","",-44.000000,144.000000,0.000000,top
+"H11","M3 brass standoff","",-44.000000,100.000000,0.000000,top
+"H12","M3 brass standoff","",-44.000000,56.000000,0.000000,top
+"H13","M3 brass standoff","",0.000000,144.000000,0.000000,top
+"H14","M3 brass standoff","",0.000000,56.000000,0.000000,top
+"H15","M3 brass standoff","",44.000000,144.000000,0.000000,top
+"H16","M3 brass standoff","",44.000000,100.000000,0.000000,top
+"H17","M3 brass standoff","",44.000000,56.000000,0.000000,top
+"H18","SMA cable plug pass-through","",-36.000000,64.000000,0.000000,top
+"H19","SMA bulkhead (monopole)","",100.000000,100.000000,0.000000,top
+"H20","SMA bulkhead (monopole)","",-100.000000,0.000000,0.000000,top
+"H21","M3 brass standoff","",-44.000000,44.000000,0.000000,top
+"H22","M3 brass standoff","",-44.000000,0.000000,0.000000,top
+"H23","M3 brass standoff","",-44.000000,-44.000000,0.000000,top
+"H24","M3 brass standoff","",0.000000,44.000000,0.000000,top
+"H25","M3 brass standoff","",0.000000,-44.000000,0.000000,top
+"H26","M3 brass standoff","",44.000000,44.000000,0.000000,top
+"H27","M3 brass standoff","",44.000000,0.000000,0.000000,top
+"H28","M3 brass standoff","",44.000000,-44.000000,0.000000,top
+"H29","SMA cable plug pass-through","",-36.000000,-36.000000,0.000000,top
+"H30","M3 brass standoff","",56.000000,44.000000,0.000000,top
+"H31","M3 brass standoff","",56.000000,0.000000,0.000000,top
+"H32","M3 brass standoff","",56.000000,-44.000000,0.000000,top
+"H33","M3 brass standoff","",100.000000,44.000000,0.000000,top
+"H34","M3 brass standoff","",100.000000,-44.000000,0.000000,top
+"H35","M3 brass standoff","",144.000000,44.000000,0.000000,top
+"H36","M3 brass standoff","",144.000000,0.000000,0.000000,top
+"H37","M3 brass standoff","",144.000000,-44.000000,0.000000,top
+"H38","SMA cable plug pass-through","",64.000000,-36.000000,0.000000,top
+"H39","M3 brass standoff","",-144.000000,-56.000000,0.000000,top
+"H40","M3 brass standoff","",-144.000000,-100.000000,0.000000,top
+"H41","M3 brass standoff","",-144.000000,-144.000000,0.000000,top
+"H42","M3 brass standoff","",-100.000000,-56.000000,0.000000,top
+"H43","M3 brass standoff","",-100.000000,-144.000000,0.000000,top
+"H44","M3 brass standoff","",-56.000000,-56.000000,0.000000,top
+"H45","M3 brass standoff","",-56.000000,-100.000000,0.000000,top
+"H46","M3 brass standoff","",-56.000000,-144.000000,0.000000,top
+"H47","SMA cable plug pass-through","",-136.000000,-136.000000,0.000000,top
+"H48","SMA bulkhead (monopole)","",0.000000,-100.000000,0.000000,top
+"H49","M3 brass standoff","",56.000000,-56.000000,0.000000,top
+"H50","M3 brass standoff","",56.000000,-100.000000,0.000000,top
+"H51","M3 brass standoff","",56.000000,-144.000000,0.000000,top
+"H52","M3 brass standoff","",100.000000,-56.000000,0.000000,top
+"H53","M3 brass standoff","",100.000000,-144.000000,0.000000,top
+"H54","M3 brass standoff","",144.000000,-56.000000,0.000000,top
+"H55","M3 brass standoff","",144.000000,-100.000000,0.000000,top
+"H56","M3 brass standoff","",144.000000,-144.000000,0.000000,top
+"H57","SMA cable plug pass-through","",64.000000,-136.000000,0.000000,top
+"H58","cable pass-through","",-100.000000,165.500000,0.000000,top
+"H59","cable pass-through","",0.000000,165.500000,0.000000,top
+"H60","cable pass-through","",100.000000,165.500000,0.000000,top
+"H61","bracket M4","",-120.000000,165.500000,0.000000,top
+"H62","bracket M4","",-40.000000,165.500000,0.000000,top
+"H63","bracket M4","",40.000000,165.500000,0.000000,top
+"H64","bracket M4","",120.000000,165.500000,0.000000,top

@@ -1,0 +1,18 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0R (disk feed) / tune","C_0603_1608Metric",5.962042,-2.669328,33.467056,bottom
+"C2","0R (disk feed) / tune","C_0603_1608Metric",-2.669328,5.962042,56.532944,bottom
+"J1","SMA vertical (Amphenol 132134)","SMA_Amphenol_132134_Vertical",-36.000000,-36.000000,0.000000,bottom
+"JP1","polarization select: 0R on A-C or C-B","",-23.334523,-23.334523,-45.000000,bottom
+"R1","49.9R if RHCP not used, else DNP","R_0603_1608Metric",-15.561811,-22.763375,-45.000000,bottom
+"R3","49.9R if LHCP not used, else DNP","R_0603_1608Metric",-22.763375,-15.561811,135.000000,bottom
+"U1","Q3XG-1500R 90deg hybrid - LAND PATTERN PLACEHOLDER, VERIFY","",-12.727922,-12.727922,45.000000,bottom
+"H1","M3 plated hole for brass standoff to plate","",-44.000000,44.000000,0.000000,top
+"H2","M3 plated hole for brass standoff to plate","",-44.000000,0.000000,0.000000,top
+"H3","M3 plated hole for brass standoff to plate","",-44.000000,-44.000000,0.000000,top
+"H4","M3 plated hole for brass standoff to plate","",0.000000,44.000000,0.000000,top
+"H5","M3 plated hole for brass standoff to plate","",0.000000,-44.000000,0.000000,top
+"H6","M3 plated hole for brass standoff to plate","",44.000000,44.000000,0.000000,top
+"H7","M3 plated hole for brass standoff to plate","",44.000000,0.000000,0.000000,top
+"H8","M3 plated hole for brass standoff to plate","",44.000000,-44.000000,0.000000,top
+"P1","probe","",10.000000,0.000000,0.000000,top
+"P2","probe","",0.000000,10.000000,0.000000,top

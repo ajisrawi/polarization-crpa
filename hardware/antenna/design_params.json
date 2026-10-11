@@ -1,0 +1,82 @@
+{
+  "bands_hz": {
+    "low": [
+      1164000000.0,
+      1300000000.0
+    ],
+    "high": [
+      1559000000.0,
+      1610000000.0
+    ]
+  },
+  "feed_substrate": {
+    "name": "RO4350B",
+    "er": 3.66,
+    "h_mm": 0.762,
+    "t_mm": 0.035
+  },
+  "patch_substrate": {
+    "name": "FR4",
+    "er": 4.3,
+    "h_mm": 0.8
+  },
+  "hybrid": {
+    "f0_hz": 1391571553.790351,
+    "lines": {
+      "z50": {
+        "z_ohm": 50.0,
+        "width_mm": 1.681,
+        "quarter_wave_mm": 31.88
+      },
+      "za": {
+        "z_ohm": 115.17,
+        "width_mm": 0.28,
+        "quarter_wave_mm": 33.527
+      },
+      "zb": {
+        "z_ohm": 39.89,
+        "width_mm": 2.372,
+        "quarter_wave_mm": 31.445
+      },
+      "zc": {
+        "z_ohm": 35.79,
+        "width_mm": 2.769,
+        "quarter_wave_mm": 31.245
+      }
+    },
+    "performance": {
+      "worst_return_loss_db": 22.132381548267407,
+      "worst_isolation_db": 22.743399918052248,
+      "amplitude_imbalance_db": 0.6470310881584249,
+      "phase_error_deg": 0.21832298816798357,
+      "implied_axial_ratio_db": 0.6478786027366281
+    }
+  },
+  "patch": {
+    "h1_air_mm": 9.0,
+    "h2_air_mm": 6.0,
+    "lower_patch": {
+      "f_center_hz": 1230121945.1745424,
+      "length_mm": 105.47,
+      "eeff": 1.056
+    },
+    "upper_patch": {
+      "f_center_hz": 1584294795.800327,
+      "length_mm": 81.85,
+      "eeff": 1.085
+    },
+    "probe": {
+      "diameter_mm": 1.3,
+      "offset_from_centre_mm": 25.32,
+      "edge_resistance_ohm": 106.6,
+      "reactance_lo_ohm": 56.9,
+      "series_cap_to_cancel_pF": 2.27
+    },
+    "note": "Analytical starting point only; tune h1, h2, patch sizes and probe offset in an EM solver."
+  },
+  "board": {
+    "size_mm": 124.0,
+    "element_pitch_mm": 125.0,
+    "mount_hole_offset_mm": 58.0
+  }
+}

@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0R (disk feed) / tune","C_0603_1608Metric",-4.999999,-0.271796,-90.000000,bottom
+"J1","SMA vertical (Amphenol 132134)","SMA_Amphenol_132134_Vertical",-36.000000,-36.000000,0.000000,bottom
+"H1","M3 plated hole for brass standoff to plate","",-44.000000,44.000000,0.000000,top
+"H2","M3 plated hole for brass standoff to plate","",-44.000000,0.000000,0.000000,top
+"H3","M3 plated hole for brass standoff to plate","",-44.000000,-44.000000,0.000000,top
+"H4","M3 plated hole for brass standoff to plate","",0.000000,44.000000,0.000000,top
+"H5","M3 plated hole for brass standoff to plate","",0.000000,-44.000000,0.000000,top
+"H6","M3 plated hole for brass standoff to plate","",44.000000,44.000000,0.000000,top
+"H7","M3 plated hole for brass standoff to plate","",44.000000,0.000000,0.000000,top
+"H8","M3 plated hole for brass standoff to plate","",44.000000,-44.000000,0.000000,top
+"P1","probe","",-4.999999,8.660254,0.000000,top

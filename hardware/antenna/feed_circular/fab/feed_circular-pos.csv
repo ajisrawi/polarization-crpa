@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0R / ~2.2pF probe tune","C_0603_1608Metric",21.695642,-2.698849,36.672924,bottom
+"C2","0R / ~2.2pF probe tune","C_0603_1608Metric",-2.698849,21.695642,53.327076,bottom
+"J1","SMA vertical (Amphenol 132134)","SMA_Amphenol_132134_Vertical",-54.000000,-54.000000,0.000000,bottom
+"R1","49.9R if RHCP not used, else DNP","R_0603_1608Metric",-33.499342,-58.410396,-45.000000,bottom
+"R2","0R for RHCP, else DNP","R_0603_1608Metric",-47.793347,-50.480353,135.000000,bottom
+"R3","49.9R if LHCP not used, else DNP","R_0603_1608Metric",-58.410396,-33.499342,135.000000,bottom
+"R4","0R for LHCP, else DNP","R_0603_1608Metric",-50.480353,-47.793347,-45.000000,bottom

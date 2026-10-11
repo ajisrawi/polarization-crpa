@@ -1,0 +1,57 @@
+{
+  "rev": "B (TMM3 compact)",
+  "substrates": {
+    "slab": {
+      "name": "Rogers TMM3",
+      "er": 3.45,
+      "tan_d": 0.002
+    },
+    "feed": {
+      "name": "Rogers RO4350B",
+      "er": 3.66,
+      "h_mm": 0.762
+    },
+    "slab_thickness_mm": {
+      "A1": 8.89,
+      "A2": 0.762,
+      "B": 3.175,
+      "C": 7.62
+    }
+  },
+  "patches_mm": {
+    "A": 64.34,
+    "B": 57.91,
+    "C": 48.1
+  },
+  "resonances_hz": {
+    "A": 1190000000.0,
+    "B": 1275000000.0,
+    "C": 1585000000.0
+  },
+  "probe": {
+    "offset_from_centre_mm": 6.39,
+    "edge_resistance_ohm": 530.7,
+    "reactance_ohm": 54.8,
+    "series_cap_to_cancel_pF": 2.44,
+    "feed_disk_diameter_mm": 8.8
+  },
+  "stack_height_mm": 21.21,
+  "bandwidth_estimate": {
+    "lower_needed_pct": 11.1,
+    "lower_single_patch_pct": 4.1,
+    "lower_stacked_pair_pct_typical": "8-12",
+    "upper_needed_pct": 3.2,
+    "upper_single_patch_pct": 3.1,
+    "note": "Hybrid-fed CP widens impedance bandwidth (reflections go to the terminated port) at the cost of efficiency. EM simulation decides whether h must grow."
+  },
+  "board": {
+    "feed_size_mm": 96.0,
+    "slab_size_mm": 80.0,
+    "element_pitch_mm": 100.0,
+    "post_holes_mm": 44.0
+  },
+  "hybrid": {
+    "part": "Electro-Photonics Q3XG-1500R (1000-2000 MHz, 14.2 x 8.9 mm)",
+    "land_pattern": "PLACEHOLDER - replace with the datasheet recommended layout"
+  }
+}

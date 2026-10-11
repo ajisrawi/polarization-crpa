@@ -1,0 +1,3 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0R / ~2.2pF probe tune","C_0603_1608Metric",-12.659999,2.945822,-90.000000,bottom
+"J1","SMA vertical (Amphenol 132134)","SMA_Amphenol_132134_Vertical",-54.000000,-54.000000,0.000000,bottom

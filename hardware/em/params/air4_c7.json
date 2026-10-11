@@ -1,0 +1,15 @@
+{
+  "design": "air4",
+  "h1": 12.0,
+  "h2": 6.0,
+  "L_A": 102.0,
+  "L_C": 72.0,
+  "probe_off": 28.0,
+  "probe_off_hi": 11.0,
+  "coax_hi": true,
+  "coax_r": 0.6,
+  "inner_r": 0.25,
+  "disk_d": 7.8,
+  "hole_d": 4.0,
+  "excite": 2
+}

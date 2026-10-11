@@ -1,0 +1,104 @@
+[
+  {
+    "kind": "R",
+    "x": -125.0,
+    "y": -125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP jumpers)"
+  },
+  {
+    "kind": "H",
+    "x": 0.0,
+    "y": -125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 0.0,
+    "board": "feed_linear_000"
+  },
+  {
+    "kind": "V",
+    "x": 125.0,
+    "y": -125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "V",
+    "x": -125.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "R",
+    "x": 0.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP jumpers)"
+  },
+  {
+    "kind": "H",
+    "x": 125.0,
+    "y": 0.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 60.0,
+    "board": "feed_linear_060"
+  },
+  {
+    "kind": "H",
+    "x": -125.0,
+    "y": 125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "pol_deg": 120.0,
+    "board": "feed_linear_120"
+  },
+  {
+    "kind": "V",
+    "x": 0.0,
+    "y": 125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "brass monopole on SMA bulkhead"
+  },
+  {
+    "kind": "R",
+    "x": 125.0,
+    "y": 125.0,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 90.0,
+    "board": "feed_circular (RHCP jumpers)"
+  },
+  {
+    "kind": "L_tilted",
+    "x": -125.0,
+    "y": -232.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP jumpers; RHCP recommended)"
+  },
+  {
+    "kind": "L_tilted",
+    "x": 0.0,
+    "y": -232.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP jumpers; RHCP recommended)"
+  },
+  {
+    "kind": "L_tilted",
+    "x": 125.0,
+    "y": -232.5,
+    "rot_deg": 0.0,
+    "boresight_el_deg": 10.0,
+    "boresight_az_deg": 0.0,
+    "board": "feed_circular (LHCP jumpers; RHCP recommended)"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "tag": "air4_c3",
+  "params": {
+    "design": "air4",
+    "ground": 124.0,
+    "posts": 58.0,
+    "post_h": 8.762,
+    "plate": 240.0,
+    "h1": 12.0,
+    "h2": 6.0,
+    "t_fr4": 0.8,
+    "er_fr4": 4.3,
+    "tan_fr4": 0.02,
+    "L_A": 102.0,
+    "L_C": 72.0,
+    "carrier": 124.0,
+    "probe_off": 28.0,
+    "probe_r": 0.65,
+    "disk_d": 7.8,
+    "hole_d": 4.0,
+    "probe_off_hi": 14.0,
+    "excite": 2,
+    "_min_cell_mm": {
+      "x": 0.221,
+      "y": 0.221,
+      "z": 0.5
+    },
+    "_coupling_to_ports_dB": {
+      "1": -23.1,
+      "2": -23.1,
+      "4": -21.3
+    }
+  },
+  "cells_M": 0.54,
+  "s11_dips_MHz": [
+    1630.0
+  ],
+  "s11_db_min": -3.69,
+  "below_-10dB_MHz": null,
+  "band_worst_s11_db": {
+    "L5/E5a/B2a": -1.77,
+    "E5b/B2b/G3": -1.61,
+    "L2": -1.53,
+    "G2": -1.42,
+    "E6/B3": -1.29,
+    "B1I": -1.2,
+    "L1/E1/B1C": -1.33,
+    "G1": -2.53
+  }
+}

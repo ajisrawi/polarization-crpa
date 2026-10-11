@@ -1,0 +1,13 @@
+{
+  "tag": "air4_c6",
+  "band": "upper",
+  "unmatched_worst_S11_dB": -0.78,
+  "series_C_opt_pF": 1.411,
+  "worst_S11_opt_dB": -2.45,
+  "series_C_std_pF": 1.5,
+  "worst_S11_std_dB": -2.43,
+  "R_band_ohm": [
+    7.0,
+    13.8
+  ]
+}
